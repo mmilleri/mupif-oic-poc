@@ -4,7 +4,6 @@ chardet==3.0.4
 ecdsa==0.13
 future==0.17.1
 idna==2.8
-pkg-resources==0.0.0
 pyasn1==0.4.5
 python-jose==3.0.1
 python-keycloak==0.14.4
