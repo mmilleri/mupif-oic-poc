@@ -14,6 +14,12 @@ Proof of concept OpenID authentication with Keycloak for mupif
   python3 -m pip install --user virtualenv
   ```
 
+- Create the virtualenv
+
+  ```
+  python3 -m virtualenv -p python3 env
+  ```
+
 - Activate the virtualenv
 
   ```
